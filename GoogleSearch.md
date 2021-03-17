@@ -1,16 +1,17 @@
 # **Tìm kiếm google nâng cao:**
 ## 1.Thu hẹp kết quả tìm kiếm trên web:
-Bạn có thể sử dụng các biểu tượng hoặc từ ngữ để tìm được những kết quả chính xác hơn.
-Đặt biểu tượng @ ở trước một từ để tìm kiếm nội dung trên mạng xã hội. Ví dụ: @twitter.
-Tìm kiếm giá: Đặt biểu tượng $ ở trước một con số. Ví dụ: máy ảnh $400.
-Tìm kiếm thẻ hashtag (#): Đặt hashtag #  trước một từ. Ví dụ: #throwbackthursday
-Loại bớt các từ khỏi kết quả tìm kiếm: Đặt dấu - phía trước từ bạn muốn loại ra. Ví dụ: hòa bình -tỉnh
-Tìm kiếm cụm từ hoàn toàn trùng khớp: Đặt từ hoặc cụm từ trong dấu ngoặc kép. Ví dụ: "tòa nhà cao nhất".
-Tìm kiếm trong một phạm vi số: Đặt dấu .. giữa hai con số. Ví dụ: máy ảnh $50..$100.
-Kết hợp các cụm từ tìm kiếm: Đặt từ "OR" giữa mỗi cụm từ tìm kiếm. Ví dụ: chạy việt dã OR chạy đua.
-Tìm kiếm một trang web cụ thể: Đặt từ "site:" ở trước một trang web hoặc miền. Ví dụ site:youtube.com hoặc site:.gov.
-Tìm kiếm các trang web liên quan: Đặt từ "related:" ở trước một địa chỉ web bạn đã biết. Ví dụ: related:time.com.
-Xem phiên bản của trang web mà Google đã lưu trong bộ nhớ đệm: Đặt từ "cache:" ở trước địa chỉ trang web.
+-Bạn có thể sử dụng các biểu tượng hoặc từ ngữ để tìm được những kết quả chính xác hơn.
+  -Đặt biểu tượng `@` ở trước một từ để tìm kiếm nội dung trên mạng xã hội. Ví dụ: `@twitter`.
+  -Tìm kiếm giá: Đặt biểu tượng `$` ở trước một con số. Ví dụ: máy ảnh `$400`.
+  -Tìm kiếm thẻ hashtag (#): Đặt hashtag #  trước một từ. Ví dụ: #throwbackthursday
+  -Loại bớt các từ khỏi kết quả tìm kiếm: Đặt dấu `-` phía trước từ bạn muốn loại ra. Ví dụ: hòa bình `-tỉnh`
+-Tìm kiếm cụm từ hoàn toàn trùng khớp: Đặt từ hoặc cụm từ trong dấu ngoặc kép. Ví dụ: `"tòa nhà cao nhất"`.
+-Tìm kiếm trong một phạm vi số: Đặt dấu `..` giữa hai con số. Ví dụ: máy ảnh `$50..$100`.
+-Kết hợp các cụm từ tìm kiếm: Đặt từ `"OR"` giữa mỗi cụm từ tìm kiếm. Ví dụ: `chạy việt dã OR chạy đua`.
+-Tìm kiếm một trang web cụ thể: Đặt từ `"site:"` ở trước một trang web hoặc miền. Ví dụ `site:youtube.com hoặc site:.gov`.
+-Tìm kiếm các trang web liên quan: Đặt từ `"related:"` ở trước một địa chỉ web bạn đã biết. Ví dụ: `related:time.com`.
+-Xem phiên bản của trang web mà Google đã lưu trong bộ nhớ đệm: Đặt từ `"cache:"` ở trước địa chỉ trang web.
+
 ## 2. Sử dụng các trường tìm kiếm của tính năng Tìm kiếm nâng cao
 Lưu ý quan trọng: Mỗi trang Tìm kiếm nâng cao có thể có các trường tìm kiếm khác nhau.
 Trong trang Tìm kiếm nâng cao, bạn có thể chọn từ hoặc cụm từ để nhận hoặc không nhận kết quả tìm kiếm có những từ này. Bạn có thể chọn:
